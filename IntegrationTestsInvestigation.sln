@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestsInvestigation", "IntegrationTestsInvestigation\IntegrationTestsInvestigation.csproj", "{03D9CF3E-1633-44B8-9852-54D10BEE6A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestsInvestigation.ApiClient", "IntegrationTestsInvestigation.ApiClient\IntegrationTestsInvestigation.ApiClient.csproj", "{610CC840-4A8E-4165-8350-BDC3BBE4FAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestsInvestigation.Tests", "IntegrationTestsInvestigation.Tests\IntegrationTestsInvestigation.Tests.csproj", "{9E89B024-45F6-4580-B52C-8C46C8FB5191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D9CF3E-1633-44B8-9852-54D10BEE6A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D9CF3E-1633-44B8-9852-54D10BEE6A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D9CF3E-1633-44B8-9852-54D10BEE6A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D9CF3E-1633-44B8-9852-54D10BEE6A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610CC840-4A8E-4165-8350-BDC3BBE4FAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610CC840-4A8E-4165-8350-BDC3BBE4FAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610CC840-4A8E-4165-8350-BDC3BBE4FAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610CC840-4A8E-4165-8350-BDC3BBE4FAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E89B024-45F6-4580-B52C-8C46C8FB5191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E89B024-45F6-4580-B52C-8C46C8FB5191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E89B024-45F6-4580-B52C-8C46C8FB5191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E89B024-45F6-4580-B52C-8C46C8FB5191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
